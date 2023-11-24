@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+    color:rgb(119, 49, 49);
+    
+}
+body{
+    background-repeat: no-repeat;
+   background-size: cover;
+    
+}
+p{
+    margin-top: 40px;
+    margin-left: 50px;
+    font-size: larger;
+    text-align: center;
+}
+h2{
+    
+    text-align: center;
+}s
+li{
+    font-style: bold;
+    font-size: larger;
+    
+}
+ol{
+    text-align: center;
+}
+a{
+    color: rgb(108, 24, 117);
+    
+   
+    
+}
+a:hover{
+    color: black;
+}
+img{
+    width: 500px;
+    border: 2px solid black;
+
+    /* margin-left: 1200px; */
+    margin-bottom: 100px;
+    padding: 20px;
+}
+.para1{
+    display: flex;
+    flex-direction: row;
+}
+.para1 p{
+    text-align: left;
+}
+
+.para2  {
+    display: flex;
+    flex-direction: row;
+
+}
